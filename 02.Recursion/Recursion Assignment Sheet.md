@@ -1,5 +1,5 @@
 Recursion Assignment Sheet:
-1) 344. Reverse String[https://leetcode.com/problems/reverse-string/]
+1) 344. Reverse String[ ]
 2) 342. Power of Four [https://leetcode.com/problems/power-of-four/]
 3) 1823. Find the Winner of the Circular Game [https://leetcode.com/problems/find-the-winner-of-the-circular-game/]
 4) 241. Different Ways to Add Parentheses [https://leetcode.com/problems/different-ways-to-add-parentheses/]
